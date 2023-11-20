@@ -1,0 +1,4 @@
+duckcli>=0.2.1
+dbt-duckdb>=1.3.1
+dbt-core>=1.3.0
+sqlfluff~=1.2.1
