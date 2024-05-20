@@ -24,7 +24,7 @@ chardet==5.2.0
     #   sqlfluff
 charset-normalizer==3.3.2
     # via requests
-cli-helpers[styles]==2.3.0
+cli-helpers[styles]==2.3.1
     # via duckcli
 click==8.1.7
     # via
