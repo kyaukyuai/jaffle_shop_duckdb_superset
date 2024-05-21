@@ -50,7 +50,7 @@ dbt-extractor==0.5.1
     # via dbt-core
 dbt-semantic-interfaces==0.4.1
     # via dbt-core
-diff-cover==8.0.1
+diff-cover==8.0.3
     # via sqlfluff
 duckcli==0.2.1
     # via -r requirements.in
