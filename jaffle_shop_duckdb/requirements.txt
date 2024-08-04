@@ -175,7 +175,7 @@ text-unidecode==1.3
     # via python-slugify
 toml==0.10.2
     # via sqlfluff
-tqdm==4.66.1
+tqdm==4.66.5
     # via sqlfluff
 typing-extensions==4.8.0
     # via
