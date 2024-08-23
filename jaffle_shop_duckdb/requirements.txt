@@ -118,7 +118,7 @@ protobuf==4.25.1
     # via dbt-core
 pycparser==2.21
     # via cffi
-pydantic==1.10.13
+pydantic==1.10.18
     # via dbt-semantic-interfaces
 pygments==2.17.1
     # via
