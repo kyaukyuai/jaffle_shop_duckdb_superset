@@ -94,7 +94,7 @@ minimal-snowplow-tracker==0.0.2
     # via dbt-core
 more-itertools==10.1.0
     # via dbt-semantic-interfaces
-msgpack==1.0.7
+msgpack==1.1.0
     # via mashumaro
 networkx==3.2.1
     # via dbt-core
