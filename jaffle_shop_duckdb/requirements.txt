@@ -114,7 +114,7 @@ pluggy==1.3.0
     #   pytest
 prompt-toolkit==3.0.41
     # via duckcli
-protobuf==4.25.1
+protobuf==4.25.5
     # via dbt-core
 pycparser==2.21
     # via cffi
