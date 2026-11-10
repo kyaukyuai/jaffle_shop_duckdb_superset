@@ -125,7 +125,7 @@ pygments==2.17.1
     #   cli-helpers
     #   diff-cover
     #   duckcli
-pytest==7.4.3
+pytest==7.4.4
     # via sqlfluff
 python-dateutil==2.8.2
     # via dbt-semantic-interfaces
