@@ -131,7 +131,7 @@ python-dateutil==2.8.2
     # via dbt-semantic-interfaces
 python-slugify==8.0.1
     # via agate
-pytimeparse==1.1.8
+pytimeparse==1.1.10
     # via agate
 pytz==2023.3.post1
     # via dbt-core
